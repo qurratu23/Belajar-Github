@@ -2,8 +2,7 @@ untuk belajar Github harus ,mengetahui  beberapa terminologi berikut:
 1. Repository
 2. Commit
 3. Branch
-5. thesa ngamuk
-6. thesa pemarah
-7. thesa pms
+5. clone
+7. down
 8. pull
 9. push
