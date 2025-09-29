@@ -1,0 +1,6 @@
+untuk memahami vabang git maka diperlukan:
+1.proses brancing
+2.proses commit
+3.proses merge
+4.proses pull
+5.proses conflict
